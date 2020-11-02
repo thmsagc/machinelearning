@@ -1,4 +1,10 @@
 '''
+Machine learning method by supervised learning.
+@author Thomás Augusto Gouveia Chaves
+@version 02/11/2020
+'''
+
+'''
 LIBRARIES
 '''
 import pandas as pd
